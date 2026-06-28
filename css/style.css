@@ -264,6 +264,11 @@ h3 {
   text-decoration: none;
 }
 
+.partner-card {
+  border-color: #d3dfc9;
+  background: linear-gradient(180deg, #ffffff, #f5faef);
+}
+
 .category-list {
   display: grid;
   gap: 10px;
