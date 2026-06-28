@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">備蓄食のプレースホルダー画像</title>
+  <desc id="desc">保存食、ランタン、水をやさしい色で表した仮画像です。</desc>
+  <rect width="1200" height="720" fill="#fff7e8"/>
+  <rect x="88" y="88" width="1024" height="544" rx="24" fill="#f4eadb"/>
+  <rect x="180" y="250" width="190" height="260" rx="16" fill="#fefdf8" stroke="#d9c6aa" stroke-width="8"/>
+  <rect x="210" y="288" width="130" height="54" rx="8" fill="#e7a35c"/>
+  <rect x="214" y="372" width="122" height="22" rx="6" fill="#5f7f64"/>
+  <rect x="214" y="410" width="88" height="22" rx="6" fill="#9daf88"/>
+  <rect x="470" y="210" width="170" height="320" rx="34" fill="#dcead5" stroke="#5f7f64" stroke-width="8"/>
+  <rect x="510" y="165" width="90" height="62" rx="12" fill="#5f7f64"/>
+  <path d="M736 305c0-72 52-126 116-126s116 54 116 126v144H736V305Z" fill="#fffdf8" stroke="#d9c6aa" stroke-width="8"/>
+  <rect x="778" y="448" width="148" height="82" rx="16" fill="#5f7f64"/>
+  <circle cx="852" cy="314" r="58" fill="#ffe0b8" stroke="#e7a35c" stroke-width="8"/>
+  <path d="M142 584h916" stroke="#d9c6aa" stroke-width="10" stroke-linecap="round"/>
+</svg>
