@@ -299,6 +299,21 @@ h3 {
   padding: 34px 0 22px;
 }
 
+.article-thumbnail {
+  overflow: hidden;
+  margin: 0 0 22px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--paper-strong);
+  box-shadow: var(--shadow);
+}
+
+.article-thumbnail img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
 .article-body {
   padding: 20px;
 }
